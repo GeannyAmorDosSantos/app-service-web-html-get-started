@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'InfoTestingApp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0942bae9d7804ae6957ba9d41eec1b0e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e6c3269c773e4721ae42799c4279bf89 }}
         package: .
